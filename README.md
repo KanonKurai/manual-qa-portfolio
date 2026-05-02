@@ -43,7 +43,7 @@
 
 ### Bug reports
 
-Раздел будет дополнен обезличенными примерами баг-репортов.
+- [502 Bad Gateway при создании платежа после включения проверки чеков](bug-reports/payment-create-502-after-receipt-check.md)
 
 ### API testing
 
