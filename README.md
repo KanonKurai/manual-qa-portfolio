@@ -47,6 +47,8 @@
 - [502 Bad Gateway при создании платежа после включения проверки чеков](bug-reports/payment-create-502-after-receipt-check.md)
 - [После возврата с платежной страницы отображается страница успешного оформления заказа](bug-reports/unsuccessful-payment-success-page.md)
 - [При серверных ошибках отображаются сообщения о неверных пользовательских данных](bug-reports/server-errors-wrong-user-message.md)
+- [Стоимость доставки не учитывается в итоговой сумме оплаты](bug-reports/delivery-cost-not-included-in-payment.md)
+- [При самовывозе в сумму оплаты добавляется стоимость доставки после исправления расчета курьерской доставки](bug-reports/pickup-payment-includes-delivery-cost-after-fix.md)
 
 ### API testing
 
