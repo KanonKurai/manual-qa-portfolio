@@ -44,6 +44,7 @@
 ### Bug reports
 
 - [502 Bad Gateway при создании платежа после включения проверки чеков](bug-reports/payment-create-502-after-receipt-check.md)
+- [После возврата с платежной страницы отображается страница успешного оформления заказа](bug-reports/unsuccessful-payment-success-page.md)
 
 ### API testing
 
