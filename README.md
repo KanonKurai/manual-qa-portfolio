@@ -40,6 +40,7 @@
 ### Checklists
 
 - [Чек-лист тестирования оплаты](checklists/payment-checklist.md)
+- [Чек-лист регресса поиска, фильтров и сортировки](checklists/search-filters-regression-checklist.md)
 
 ### Bug reports
 
@@ -49,6 +50,7 @@
 ### API testing
 
 - [Чек-лист API-проверок интернет-магазина](api-testing/ecommerce-api-checklist.md)
+- [Чек-лист API-проверок сессий и токенов](api-testing/auth-sessions-tokens-checklist.md)
 
 ## Примечание
 
