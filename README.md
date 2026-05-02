@@ -47,7 +47,7 @@
 
 ### API testing
 
-Раздел будет дополнен примерами API-проверок.
+- [Чек-лист API-проверок интернет-магазина](api-testing/ecommerce-api-checklist.md)
 
 ## Примечание
 
