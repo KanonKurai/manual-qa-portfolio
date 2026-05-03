@@ -51,6 +51,7 @@
 - [При серверных ошибках отображаются сообщения о неверных пользовательских данных](bug-reports/server-errors-wrong-user-message.md)
 - [Стоимость доставки не учитывается в итоговой сумме оплаты](bug-reports/delivery-cost-not-included-in-payment.md)
 - [При самовывозе в сумму оплаты добавляется стоимость доставки после исправления расчета курьерской доставки](bug-reports/pickup-payment-includes-delivery-cost-after-fix.md)
+- [Лишний экран перед авторизацией и разное поведение перехода в личный кабинет](bug-reports/profile-login-extra-step-inconsistent-navigation.md)
 
 ### API testing
 
