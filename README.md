@@ -54,6 +54,7 @@
 - [При самовывозе в сумму оплаты добавляется стоимость доставки после исправления расчета курьерской доставки](bug-reports/pickup-payment-includes-delivery-cost-after-fix.md)
 - [Лишний экран перед авторизацией и разное поведение перехода в личный кабинет](bug-reports/profile-login-extra-step-inconsistent-navigation.md)
 - [Недоступный товар в корзине не помечается как “Нет в наличии” и блокирует оформление заказа](bug-reports/out-of-stock-item-blocks-checkout.md)
+- [Выход из аккаунта на одном устройстве завершает сессии на других устройствах](bug-reports/logout-invalidates-other-sessions.md)
 
 ### API testing
 
