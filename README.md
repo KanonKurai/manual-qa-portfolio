@@ -43,6 +43,7 @@
 - [Чек-лист регресса поиска, фильтров и сортировки](checklists/search-filters-regression-checklist.md)
 - [Чек-лист тестирования раздела “Избранное”](checklists/favorites-checklist.md)
 - [Чек-лист тестирования корзины](checklists/cart-checklist.md)
+- [Чек-лист тестирования личного кабинета](checklists/account-checklist.md)
 
 ### Bug reports
 
