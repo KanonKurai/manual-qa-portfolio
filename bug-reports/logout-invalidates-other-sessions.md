@@ -51,7 +51,7 @@
 
 ## Priority
 
-Medium
+High
 
 ## Severity
 
