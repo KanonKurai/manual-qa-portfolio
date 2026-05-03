@@ -42,6 +42,7 @@
 - [Чек-лист тестирования оплаты](checklists/payment-checklist.md)
 - [Чек-лист регресса поиска, фильтров и сортировки](checklists/search-filters-regression-checklist.md)
 - [Чек-лист тестирования раздела “Избранное”](checklists/favorites-checklist.md)
+- [Чек-лист тестирования корзины](checklists/cart-checklist.md)
 
 ### Bug reports
 
