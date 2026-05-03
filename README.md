@@ -63,6 +63,7 @@
 ### Analysis
 
 - [Сравнение вариантов регистрации для интернет-магазина](analysis/registration-options-comparison.md)
+- [Анализ требований к безопасности платежей и модели данных](analysis/payment-security-and-data-model.md)
 
 ## Примечание
 
