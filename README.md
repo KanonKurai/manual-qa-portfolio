@@ -61,6 +61,7 @@
 
 - [Сравнение вариантов регистрации для интернет-магазина](analysis/registration-options-comparison.md)
 - [Анализ требований к безопасности платежей и модели данных](analysis/payment-security-and-data-model.md)
+- [Идея клиентского мероприятия для выбора названия магазина](client-event-store-naming.md)
 
 ## Примечание
 
