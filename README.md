@@ -1,40 +1,34 @@
-# QA Portfolio — Атюева Айса
+# QA Portfolio — Айса Атюева
 
-Я Manual QA Engineer. В тестировании больше года: основной опыт — game projects, дополнительно работаю с e-commerce, API и платежными сценариями.
+Я Manual QA Engineer с коммерческим опытом тестирования мобильной игры на Android и iOS и web-проектов.
 
 В этом репозитории собраны обезличенные примеры моей тестовой документации:
+
 - чек-листы;
 - баг-репорты;
 - API-проверки;
-- примеры анализа.
+- примеры анализа дефектов.
 
-Реальные данные проектов, внутренние ссылки, названия систем, скриншоты, API-ответы, токены, cookies, пользовательские данные и номера внутренних задач не раскрываются.
+Основные направления:
 
-## Основные направления
-
-- Manual QA
-- Functional testing
-- Regression testing
-- Exploratory testing
+- Game QA
+- Mobile testing
+- Web testing
 - API testing
 - E-commerce testing
 - Payment testing
-- Game QA
-- Mobile testing
-- Bug reporting
 
-## Инструменты
+Инструменты:
 
 - DevTools
 - Bruno API Client
 - Postman
-- SoapUI
 - TeamCity
-- MailHog
 - Android / iOS logs
-- SQL на базовом уровне
+- SQL — базовый уровень
 - JSON / XML
 
+Реальные данные проектов, внутренние ссылки, токены, cookies и пользовательские данные не раскрываются.
 ## Содержание
 
 ### Checklists
