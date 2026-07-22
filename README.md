@@ -56,6 +56,7 @@
 
 - [Чек-лист API-проверок интернет-магазина](api-testing/ecommerce-api-checklist.md)
 - [Чек-лист API-проверок сессий и токенов](api-testing/auth-sessions-tokens-checklist.md)
+- [Чек-лист API-проверок платежной интеграции](payment-integration-checklist.md)
 
 ### Analysis
 
